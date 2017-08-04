@@ -2,6 +2,303 @@
 <items version="2" >
 
     <item
+<<<<<<< HEAD
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\60b54bcbd1775693513ee5b4f07fbdb2507374b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a29bbd77468304bf8963353927de3ca139dc46c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\813fd24c619908dfba6d4691d9d78ffad91764a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20e78e40efbe4a6f18e4f9a620a6b495a40f5d08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\f83dcd4931b4673c620aea21d77f76a1cddad52e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc4633864ed02426e5b2c161e8df959cc8fc2f1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\869b743697f8bf15e8f5f3cb8d565516b71b8407\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40e821a46ef66c05ee4a62ab75d405b000d40416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\a039b4064dd9b8edb8a0e586f133bf46e8b65207\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75e28a9ea64b394613684b4be8c25bfd8ba97c4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\1b2a1ecfb9a8a71a375700b4df7c73191f141c97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afa1f4266d157b26298c4eab44793daa68ec7c14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\46cf5993b0e19eaca16ce792a547b198ca238a7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_694df90729b9aefec3dcf985094e627c58dead3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\85e34b950d0fadc3ae8fa42c228a0328fa95fc17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36887fb417550d3bcc35acf9e8417c8879ce140c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_1111f304f3a5063fc144bb4a60a147b08f78d422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\b83443e80f1e0a8d44b60ef10523ee79af862c67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb8d7e9c7756c880b3a3238c3ae29af75033c993\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\a648d00da81a8b29869cb07ab4dfcb74d066822c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06f63e7ded3ab803d711f9885e969f49a9a703af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_5a6b5e06fb90b05a0b4dd0560a0326c20ff0f1ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HODO\Jamtalks\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7daea4a57a91c8dee11c35b5fc3ab569f16fbd0e">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f74b51150a9e93a62f851b8ebf805edca6437f12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\25087c98dbe6c66c0f9f6b27ff3eea5c70098349\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e786fc0abc4481a727013fd97da44e44ced7741\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\8b94a20fcdedeace1de3eef9e2efb95411b4973c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_772d2c604ffbe06ab555572871cabb2a9e1cbf59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\b618cb57d2d9eaed87f0b0871cd8e90fca726e07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d84f63d31286f748b01711ddf855576cff9b9572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\cf35d8349f41f17ee7374d05fe911d9b0e00888e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_157b2e3640f2186812afe810e21c85609da2657a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\d690480a001a67d459bcda9f06f5d51b15ade444\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60d4778eb628b10ed3b5802de681d79d396e42b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\95754f3ce47c86a0bcb5b3671fc48deb6b09cc5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b36c1e7cfa35218afd8cdd00da49f4adc7dcba9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\e373050cd13f357d2b744676dc1aec545bfe638a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d660d2187fe7ed94551c5a0bef7d3cddb0b3f51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\9663550eb2ff40cdf5b246d3293641cc78a96778\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2eacde94b26963f1a613ef4436dd55ecab433e25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\e92e4f89d01b35b2a75ce9faed620f59c7b67e40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0abf89de64dfd634cad0f8811733b291592e2cf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\908284412b2baf2d048cceadeeecbc75903922e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da95ab69a160794eea103ebc0570791dfd1e4077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\1c6c1c5bd6dd82c45d6291ed807c9266a4bdac4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d729037ff4a83220d1f706356ff0dbe4b85e0d73">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c623ddfa1c27e07453321a56519c5d2c213fc36f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\1a87b58bfc326e93fd92885a4560dc095d8b3940\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a3bc75bc66f98f7a850f39a8ba9055ebf00b886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\a9621351c99fce712572394eef014730a7c5f3dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_224229de39b4f422a09172dbcbc23d10a2efabff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\c445fd8fb3992ed85132def07d3e60b6a51d7066\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6960a3a75557be81a02e57c63036d9e9fab874c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HODO\Jamtalks\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_25cad73fa77e14c55b53e5028887d0e44db2f090\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\cb6b09de4bc534667b5f3cef77acc2a8c7e79f2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34e118f50897bec0e9cc50fcf78775406fdbb4ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\66440b2f78fb967f25984f91d1ea0fdcb74817bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea06113452fc210909ee293bf693a0fe51765df6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\53cbc525f3df619893ee012722cee6f82d4a0c45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e584296a1e1238f65e50a84fc534dcf24aea6c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\e053f63b637de8533f6be6182303cb9a92e0132e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5f1bcc60b381dd659698ad3ec5091049c55f25a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boram\.android\build-cache\a5fae8d30ff6a0a7c75dda86aaee528a73976add\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d165936e665595fb499c3e7e39a6d5be52a9fa9\classes.dex" />
+=======
         is-multidex="false"
         jar="/Users/mjk/.android/build-cache/faf8aa9d32708e3dcbe1eb718d5f8c2b9e00f935/output/jars/classes.jar"
         jumboMode="false"
@@ -135,6 +432,7 @@
         revision="26.0.1"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
         <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_65b5ad43cbed41ef0a6a8fd7871127671dfbe2bf.jar" />
+>>>>>>> db42d9850a928544a0bae25ffd93a69febff2377
     </item>
 
 </items>
