@@ -2,6 +2,7 @@
 <items version="2" >
 
     <item
+<<<<<<< HEAD
         is-multidex="true"
         jar="C:\Users\boram\.android\build-cache\60b54bcbd1775693513ee5b4f07fbdb2507374b4\output\jars\classes.jar"
         jumboMode="true"
@@ -297,6 +298,141 @@
         revision="26.0.1"
         sha1="2e92aa0163544a804a0b34f169ca61801770839a">
         <dex dex="D:\HODO\Jamtalks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d165936e665595fb499c3e7e39a6d5be52a9fa9\classes.dex" />
+=======
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/faf8aa9d32708e3dcbe1eb718d5f8c2b9e00f935/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_0997ea4a072aa5a6bcd3933ec25a24f9a7918932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/2e3968d89996a42c17916eeb2caf7c9ea285a2fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_a43f04aa07783c487c32b5ea0aca94341c0d4c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/e8790d475e582c12a798880399a15432922d6a60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_648ed6f1929e4ba4df55a5b1256e204473e40179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/3d221f40ee4ffde1d3fc068a3752e15d0f22e315/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_958241501c73032f98ae1e0334896a605500af4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/3daa19479c015b56d26d165bdc22956f86bb90eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_46d4ac1750814d2e41a54df05d29e6ca080555d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_5e308b39c16e2dcffa0783cdfe2cef85fc8e6699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/66a2dd8f022faba427f4129fe721ad468232d4e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_55cb8b0d02929a78954c1b70381e4e938ea4182f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/843c52f11e9f75551698f4a8ceb9886f56b4e607/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_e772c9880a77f26f02631245e9d3fb1ba89e111e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/8b421ddf2e2f7347d17fe7c56273e077aa2b36b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_dea4ed13b41c549f8be1156bd95799706ea219fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/ba6b2cdcb074fa4dfecc4aca30cb7f5587f23cbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_1c843c4033a1b130616ec66f29678fa5fd6e7935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/09ea816bd86ca185ccd6beedb91494802748de2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_b2b5438bb9b90ab12808aa09c3040d3acb685e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/f44cb417524c5d451089d9129973cc0737e6061c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_0da6d1f2d8bd7cfa04b813c0926ba6af5bb3e065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/6243ea87794d2189baf8aa471e806ce9acdf3bd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_0f0a39c859865fdb354bac317e4b68437aea680f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/.android/build-cache/32a14cb093d9512743171c208fd1b78b25cd7a9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/classes_f5fd0a1bde150d33d1f4442973f314925894ada0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mjk/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mjk/AndroidStudioProjects/JAMTALK/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_65b5ad43cbed41ef0a6a8fd7871127671dfbe2bf.jar" />
+>>>>>>> db42d9850a928544a0bae25ffd93a69febff2377
     </item>
 
 </items>
