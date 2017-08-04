@@ -1,9 +1,13 @@
 package com.example.mjk.jjamtalk;
 
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -17,8 +21,20 @@ public class MainActivity extends AppCompatActivity {
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_main,menu);
+        ActionBar actionBar = getSupportActionBar();
+
+        actionBar.setDisplayShowCustomEnabled(true);
+
+
+        LayoutInflater inflater = (LayoutInflater)getSystemService(LAYOUT_INFLATER_SERVICE);
+        View menu_Main  = inflater.inflate(R.layout.menu_main,null);
+        actionBar.setCustomView(menu_Main);
+        Toolbar parent = (Toolbar)menu_Main.getParent();
+        parent.setContentInsetsAbsolute(0,0);
+
+
+
+
         return true;
     }
 }
